@@ -32,6 +32,7 @@ function getDaysToLocation(kilometersAway: number): Number {
 // Move your output statement from part 2 here. Update the template literal to call
 // the function and print the outputs for a Mars trip and a moon trip.
 
+console.log(`${SpacecraftName} would take ${daysToLocation} days to get to Mars.`);
 
 
 
